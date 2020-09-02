@@ -23,6 +23,7 @@ export default function InputSample() {
             nickname: '',
         });
     };
+    
     return (
         <div>
             <input 
